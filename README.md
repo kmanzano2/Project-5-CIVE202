@@ -11,11 +11,11 @@
 ---
 ## User Guide
 
-### 1. Program Overview
-  ADD HERE
+### 1. Program Overview    
+    ADD HERE
 
-### 2. Methods
-   ADD HERE
+### 2. Methods 
+    ADD HERE
 ---
 ## Project Goals
 The goals of this project were outlined with the use of a Gantt Chart. The link is here:
