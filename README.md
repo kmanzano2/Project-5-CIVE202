@@ -14,6 +14,6 @@ The goal of this project is to analyze the interactions of autonomous vehicles (
 - [Scope of Work](Project5_SOW.pdf)
 - [Technical Report]()----
 ## Project Progession Documentation
-- [Project Gantt Chart]()---
+- [Project Gantt Chart](CIVE202_Project_5_Gantt_Chart.pdf)
 - [Project Timesheet]()---
 
