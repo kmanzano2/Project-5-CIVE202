@@ -1,36 +1,19 @@
 # CIVE-202 Project 5 - Transportation 01 Group 02 
 ---
-The goal of this project is to analyze the interactions of autonomous vehicles (AVs) operating alongside traditional road users. The U.S. Department of Transportation (USDOT) has tasked us with analyzing a specific subset of the Third Generation Simulation (TGSIM) dataset, the Foggy Bottom segment, and evaluate agent safety and predictability using the 200 seconds of recorded trajectory data. 
+## Project Overview
+The goal of this project is to analyze the interactions of autonomous vehicles (AVs) operating alongside traditional road users. The U.S. Department of Transportation (USDOT) has tasked us with analyzing a specific subset of the Third Generation Simulation (TGSIM) dataset, the Foggy Bottom segment, and evaluate agent safety and predictability using the 200 seconds of recorded trajectory data. To complete this project the U.S. Department of Transportation has also asked us to deliver not only quantitative comparison of the behavior patterns, but that it also be supported by visual representations, either as a static plot of location vs. time or an animation that highlights how the agents interact over time. 
+
+## Repository Contents
 ---
-## Repository Structure
+## Raw Data 
+- [TGSIM Dataset]()------
+- [Project 5 Notebook]()
+- [Annotated Code]()
+- [TSIM Data Dictionary]()-----
+## Written Documents
+- [Scope of Work]()-------
+- [Technical Report]()
+## Project Progession Documentation
+- [Project Gantt Chart]()
+- [Project Timesheet]()
 
-### Raw Data
-`Links:`
-
-- ADD DATA
-
----
-## User Guide
-
-### 1. Program Overview    
-    ADD HERE
-
-### 2. Methods 
-    ADD HERE
----
-## Project Goals
-The goals of this project were outlined with the use of a Gantt Chart. The link is here:
-
-- [Gantt_Chart]()
-
----
-## Project Documentation
-`Links:`
-
-The project deliverables were planned and tracked using an engineering time sheet to ensure organized progress throughout the project.
-- [Time_Sheet]()
-
-Additional project documentation:
-- [Annotated_Code_Document]()
-- [Scope_of_Work]()
-- [Written_Report]()
