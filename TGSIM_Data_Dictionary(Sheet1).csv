@@ -1,0 +1,21 @@
+Variable Name,Description,Example / Values
+id,"Unique identifier for each agent (vehicle, pedestrian, etc.)","Integer (e.g., 1450)"
+time,Timestamp in seconds (floating point),"Float (e.g., 1423.5)"
+xloc_kf,X-location (in meters) after transforming origin to bottom-left corner,"Float (e.g., 108.3)"
+yloc_kf,Y-location (in meters) after transforming origin to bottom-left corner,"Float (e.g., 213.2)"
+speed_kf_x,X-component of speed (in m/s); can be negative,"Float (e.g., -2.1)"
+speed_kf_y,Y-component of speed (in m/s); can be negative,"Float (e.g., 3.4)"
+acceleration_kf_x,X-component of acceleration (in m/s²); can be negative,"Float (e.g., 0.5)"
+acceleration_kf_y,Y-component of acceleration (in m/s²); can be negative,"Float (e.g., -1.2)"
+lane_kf,Lane or segment polygon ID where the agent is located (mapped from image zones),"Integer (e.g., 15, 18, 3, etc.)"
+type_most_common,"Most common agent type for the trajectory.
+0: Persons (Pedestrians)
+1: Bicycles
+2: Scooters
+3: Passenger Cars (Non-automated)
+4: Automated Vehicles
+5: Motorcycles
+6: Buses
+7: Trucks",Integer
+width_smoothed,Smoothed lateral width of the agent (in meters); usually derived from bounding boxes,"Float (e.g., 1.8)"
+length_smoothed,Smoothed longitudinal length of the agent (in meters); typically includes smoothing over time,"Float (e.g., 4.5)"
