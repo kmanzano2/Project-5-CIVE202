@@ -1,5 +1,5 @@
 # CIVE-202 Project 5 - Transportation 01 Group 02
-    The goal of this project is to analyze the interactions of autonomous vehicles (AVs) operating alongside traditional road users. The U.S. Department of Transportation (USDOT) has tasked us with analyzing a specific subset of the Third Generation Simulation (TGSIM) dataset, the Foggy Bottom segment, and evaluate agent safety and predictability using the 200 seconds of recorded trajectory data. 
+The goal of this project is to analyze the interactions of autonomous vehicles (AVs) operating alongside traditional road users. The U.S. Department of Transportation (USDOT) has tasked us with analyzing a specific subset of the Third Generation Simulation (TGSIM) dataset, the Foggy Bottom segment, and evaluate agent safety and predictability using the 200 seconds of recorded trajectory data. 
 ---
 ## Repository Structure
 
